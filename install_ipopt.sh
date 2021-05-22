@@ -10,3 +10,5 @@ sudo apt-get install cppad
 
 sudo apt-get update
 sudo apt-get install lib32z1
+
+ipopt --version
