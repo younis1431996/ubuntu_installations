@@ -8,3 +8,7 @@ sudo apt-get install manpages-dev
 gcc --version
 
 sudo apt-get install gfortran
+
+g++ --version
+gcc --version
+gfortran --version
